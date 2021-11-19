@@ -1,0 +1,6 @@
+Williams,Mary,Y,N
+Nguyen,Vinh,N,Y
+Kingsley,Margret,N,N
+Kline,Bob,Y,Y
+Mitchell,Frank,Y,N
+Lowe,Elizabeth,Y,Y
