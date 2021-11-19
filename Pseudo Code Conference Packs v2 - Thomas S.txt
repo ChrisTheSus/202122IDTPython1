@@ -1,0 +1,37 @@
+GET employee data
+	[Surname, Firstname]
+
+GET attending day (day one, day 2 [dd/mm/yyyy])	
+
+loop (
+	
+	if attending day one
+		give red pack
+	else
+		give no pack
+
+	if attending day two
+		give grey pack
+	else
+		give no pack
+
+	if attending both days
+		give red and grey pack
+	else
+		give no pack
+
+	
+Print
+	Employee data [Surname, Firstname]
+	Date attending [dd/mm/yyyy]
+	pack received [grey or red or both]
+
+)
+
+loop end condition (end of record)
+
+
+END
+
+
+By Chris, Elliott, and Thomas © 2021 v2
